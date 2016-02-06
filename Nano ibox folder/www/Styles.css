@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.tabs td {outline: #D6D6D6 solid 1px;}
+.tabs td:hover {outline: #0000FF solid 2px;}
+.tabs2 td:hover {outline: #0000FF solid 1px;}
+
+/*
+.tabs td:hover{border: solid #0000FF; -moz-border-radius: 7px; -webkit-border-radius: 7px;
+border-radius: 7px;}
+*/

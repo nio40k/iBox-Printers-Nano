@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RLCD_SCH_28LED_v1p13p2.PcbDoc   3/4/2015  4:54:16 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : RLCD_SCH_28LED_v1p13p2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6096mm (24mil)         Round          83               468.99 mm (18.46 Inch)
+T2        0.8128mm (32mil)         Round          70               270.67 mm (10.66 Inch)
+T3        0.9144mm (36mil)         Round          2                6.50 mm (0.26 Inch)
+T4        1.016mm (40mil)          Round          45               173.12 mm (6.82 Inch)
+---------------------------------------------------------------------------
+Totals                                            200              919.28 mm (36.19 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

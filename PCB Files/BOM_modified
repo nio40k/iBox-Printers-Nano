@@ -1,0 +1,73 @@
+Partlist exported from C:/Users/Kevin/Documents/iBoxPrinters/PCB Files/PCB v1p13p2/RLCD_SCH_28LED_v1p13p2.sch at 8/5/2015 2:58:19 PM                                                         
+                                                                                                                                                                                             
+Part           Value           Device           Package          Description                                                             MF MPN OC_FARNELL OC_NEWARK PARTNO                  
+C1             100nF           C-USC0805        C0805            CAPACITOR, American symbol                                                                                                  
+C2             100uF 50V       CPOL-USE3.5-8    E3,5-8           POLARIZED CAPACITOR, American symbol                                                                REA101M1HBK-0811P       
+C3             100nF           C-USC0805        C0805            CAPACITOR, American symbol                                                                                                  
+C6             100uF 50V       CPOL-USE3.5-8    E3,5-8           POLARIZED CAPACITOR, American symbol                                                                REA101M1HBK-0811P       
+FID1           FIDUCIAL1X2     FIDUCIAL1X2      FIDUCIAL-1X2     Fiducial Alignment Points                                                                                                   
+FID2           FIDUCIAL1X2     FIDUCIAL1X2      FIDUCIAL-1X2     Fiducial Alignment Points                                                                                                   
+IC1            ULN2003AD       ULN2003AD        SO16             DRIVER ARRAY                                                                                                                
+IC2            SI1145          SI1145           QFN-10           PROXIMITY/UV/AMBIENT LIGHT SENSOR IC WITH I2C INTERFACE                                                                     
+JP1            RPi 2x20 header PINHD-2X20       2X20             PIN HEADER                                                                                          929975-01-13-RK         
+LED1           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED2           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED3           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED4           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED5           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED6           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED7           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED8           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED9           UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED10          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED11          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED12          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED13          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED14          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED15          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED16          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED17          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED18          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED19          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED20          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED21          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED22          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED23          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED24          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED25          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED26          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED27          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED28          UV_5mm          LED5MM           LED5MM           LED                                                                                                 *                       
+LED29          ORANGE          LEDCHIPLED_1206  CHIPLED_1206     LED                                                                                                 LG N971-KN-1            
+LED30          BLUE            LEDCHIPLED_1206  CHIPLED_1206     LED                                                                                                 LTST-C21TBKT            
+LED31          LED_White       LEDCHIPLED_1206  CHIPLED_1206     LED                                                                                                 LG N971-KN-1            
+LED32          LED_White       LEDCHIPLED_1206  CHIPLED_1206     LED                                                                                                 LG N971-KN-1            
+R1             0 ohm           RESISTOR0805-RES 0805             Resistor                                                                                            DNP                     
+R2             0 ohm           RESISTOR0805-RES 0805             Resistor                                                                                            DNP                     
+R3             20k ohm         RESISTOR0805-RES 0805             Resistor                                                                                            DNP                     
+R4             20k ohm         RESISTOR0805-RES 0805             Resistor                                                                                            DNP                     
+R5             500k Ohm        RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R6             500k Ohm        RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R30            1k ohm          RESISTOR0805-RES 0805             Resistor                                                                                            RK73H2ATTD1001F         
+R32            1k ohm          RESISTOR0805-RES 0805             Resistor                                                                                            RK73H2ATTD1001F         
+R33            680 ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD681J          
+R36            10k Ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R37            10k Ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R38            10k Ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R39            680 ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD681J          
+R51            10k Ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD103J          
+R52            68 Ohms         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTDD121J         
+R55            220 ohm         RESISTOR0805-RES 0805             Resistor                                                                                            RK73B2ATTD221J          
+SG1            BUZZERPTH       BUZZERPTH        BUZZER-12MM      Buzzer 12mm                                                                                         AT-1220-TT-R            
+SV1            640456-5        FE05-1           FE05-1           FEMALE HEADER                                                                  unknown    unknown   640456-5                
+SV3_LCD_HEADER 22-05-2051      MDF7-5S-2.54DSA  MDF7-5S-2.54DSA                                                                                                      MDF7-5S-2.54DSA(55)     
+SW1            SPST            SPST_TACT-EVQQ2  EVQ-Q2           SMT 6mm switch, EVQQ2 series                                                                                                
+SW2            SPST            SPST_TACT-EVQQ2  EVQ-Q2           SMT 6mm switch, EVQQ2 series                                                                                                
+SW3            SPST            SPST_TACT-EVQQ2  EVQ-Q2           SMT 6mm switch, EVQQ2 series                                                                                                
+SW4            SPST            SPST_TACT-EVQQ2  EVQ-Q2           SMT 6mm switch, EVQQ2 series                                                                                                
+T1             BC847           BC847            SOT23            NPN TRANSISTOR                                                                                      MMUN2214LT1G            
+U$1            FIDUCIAL        FIDUCIAL         FIDUCIAL_1MM     For use by pick and place machines to calibrate the vision/machine, 1mm                                                     
+U$2            LED-TRICOLOR    LED-TRICOLOR     LED-TRICOLOR-SMD Tri-Color LED SMD                                                                                   CLV1A-FKB-CHMKPEHBB7A363
+U$3            LED1642GWTTR    LED1642GWTTR     TSSOP24                                                                                                                                      
+U$4            LED1642GWTTR    LED1642GWTTR     TSSOP24                                                                                                                                      
+U$5            FIDUCIAL        FIDUCIAL         FIDUCIAL_1MM     For use by pick and place machines to calibrate the vision/machine, 1mm                                                     

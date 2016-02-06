@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+title {
+	font-family: "Arial Black", Gadget, sans-serif;
+} 
+
+.stroke {
+	color: #06F; /* text color */
+	-webkit-text-stroke: 1px #000; /* stroke color and weight */
+}
+
+a {font-family:Georgia, "Times New Roman", Times, serif;font-size:large;cursor: auto}
+/*a:link {color:blue;}
+a:visited {color: #660066;}
+a:hover {text-decoration: none; color: #ff9900; font-weight:bold;}
+a:active {color: #ff0000;text-decoration: none}
+*/
+a:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:active {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #00FFFF;
+	text-decoration: underline;
+}
+a:hover {
+	color: #CCCCCC;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+headerBar {
+	padding-bottom: 1px;
+	height: 59px;
+}

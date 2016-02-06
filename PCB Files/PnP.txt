@@ -1,0 +1,182 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment
+
+C1         C0805                15.100mm      29.200mm      15.100mm      29.200mm      15.100mm      30.050mm  T        270.00 100nF
+C3         C0805                84.100mm      27.300mm      84.100mm      27.300mm      84.100mm      26.450mm  T         90.00 100nF
+C7         C0805                15.400mm      73.400mm      15.400mm      73.400mm      15.400mm      74.250mm  T        270.00 100nF
+C8         C0805                84.400mm      71.500mm      84.400mm      71.500mm      84.400mm      70.650mm  T         90.00 100nF
+C11        C0805               -86.000mm      72.800mm     -86.000mm      72.800mm     -86.000mm      73.650mm  T        270.00 100nF
+C12        C0805               -17.000mm      70.900mm     -17.000mm      70.900mm     -17.000mm      70.050mm  T         90.00 100nF
+C15        C0805               -86.000mm      28.400mm     -86.000mm      28.400mm     -86.000mm      29.250mm  T        270.00 100nF
+C16        C0805               -17.000mm      26.500mm     -17.000mm      26.500mm     -17.000mm      25.650mm  T         90.00 100nF
+C19        C0805               -85.700mm     118.300mm     -85.700mm     118.300mm     -85.700mm     119.150mm  T        270.00 100nF
+C20        C0805               -16.700mm     116.400mm     -16.700mm     116.400mm     -16.700mm     115.550mm  T         90.00 100nF
+FID1       FIDUCIAL-1X2         96.500mm       2.300mm      96.500mm       2.300mm      96.500mm       2.300mm  T          0.00 FIDUCIAL1X2
+FID2       FIDUCIAL-1X2          1.700mm      40.200mm       1.700mm      40.200mm       1.700mm      40.200mm  T          0.00 FIDUCIAL1X2
+FID3       FIDUCIAL-1X2         96.800mm      46.500mm      96.800mm      46.500mm      96.800mm      46.500mm  T          0.00 FIDUCIAL1X2
+FID4       FIDUCIAL-1X2          2.000mm      84.400mm       2.000mm      84.400mm       2.000mm      84.400mm  T          0.00 FIDUCIAL1X2
+FID5       FIDUCIAL-1X2         -4.600mm      45.900mm      -4.600mm      45.900mm      -4.600mm      45.900mm  T          0.00 FIDUCIAL1X2
+FID6       FIDUCIAL-1X2        -99.400mm      83.800mm     -99.400mm      83.800mm     -99.400mm      83.800mm  T          0.00 FIDUCIAL1X2
+FID7       FIDUCIAL-1X2         -4.600mm       1.500mm      -4.600mm       1.500mm      -4.600mm       1.500mm  T          0.00 FIDUCIAL1X2
+FID8       FIDUCIAL-1X2        -99.400mm      39.400mm     -99.400mm      39.400mm     -99.400mm      39.400mm  T          0.00 FIDUCIAL1X2
+FID9       FIDUCIAL-1X2         -4.300mm      91.400mm      -4.300mm      91.400mm      -4.300mm      91.400mm  T          0.00 FIDUCIAL1X2
+FID10      FIDUCIAL-1X2        -99.100mm     129.300mm     -99.100mm     129.300mm     -99.100mm     129.300mm  T          0.00 FIDUCIAL1X2
+IC1        SO16                  8.200mm      27.400mm       8.200mm      27.400mm       5.127mm      31.845mm  T        270.00 ULN2003AD
+IC2        QFN-10               79.100mm       7.100mm      79.100mm       7.100mm      78.350mm       6.200mm  T         90.00 SI1145
+IC3        SO16                  8.500mm      71.600mm       8.500mm      71.600mm       5.427mm      76.045mm  T        270.00 ULN2003AD
+IC4        QFN-10               79.400mm      51.300mm      79.400mm      51.300mm      78.650mm      50.400mm  T         90.00 SI1145
+IC5        SO16                -92.900mm      71.000mm     -92.900mm      71.000mm     -95.973mm      75.445mm  T        270.00 ULN2003AD
+IC6        QFN-10              -22.000mm      50.700mm     -22.000mm      50.700mm     -22.750mm      49.800mm  T         90.00 SI1145
+IC7        SO16                -92.900mm      26.600mm     -92.900mm      26.600mm     -95.973mm      31.045mm  T        270.00 ULN2003AD
+IC8        QFN-10              -22.000mm       6.300mm     -22.000mm       6.300mm     -22.750mm       5.400mm  T         90.00 SI1145
+IC9        SO16                -92.600mm     116.500mm     -92.600mm     116.500mm     -95.673mm     120.945mm  T        270.00 ULN2003AD
+IC10       QFN-10              -21.700mm      96.200mm     -21.700mm      96.200mm     -22.450mm      95.300mm  T         90.00 SI1145
+LED29      CHIPLED_1206          6.900mm       6.600mm       6.900mm       6.600mm       0.000mm       0.000mm  T         90.00 ORANGE
+LED30      CHIPLED_1206         16.000mm       6.500mm      16.000mm       6.500mm       0.000mm       0.000mm  T         90.00 BLUE
+LED31      CHIPLED_1206         69.800mm      13.900mm      69.800mm      13.900mm       0.000mm       0.000mm  T        180.00 LED_White
+LED32      CHIPLED_1206         25.800mm      14.400mm      25.800mm      14.400mm       0.000mm       0.000mm  T          0.00 LED_White
+LED60      CHIPLED_1206          7.200mm      50.800mm       7.200mm      50.800mm       0.000mm       0.000mm  T         90.00 ORANGE
+LED61      CHIPLED_1206         16.300mm      50.700mm      16.300mm      50.700mm       0.000mm       0.000mm  T         90.00 BLUE
+LED63      CHIPLED_1206         70.100mm      58.100mm      70.100mm      58.100mm       0.000mm       0.000mm  T        180.00 LED_White
+LED64      CHIPLED_1206         26.100mm      58.600mm      26.100mm      58.600mm       0.000mm       0.000mm  T          0.00 LED_White
+LED92      CHIPLED_1206        -94.200mm      50.200mm     -94.200mm      50.200mm       0.000mm       0.000mm  T         90.00 ORANGE
+LED93      CHIPLED_1206        -85.100mm      50.100mm     -85.100mm      50.100mm       0.000mm       0.000mm  T         90.00 BLUE
+LED95      CHIPLED_1206        -31.300mm      57.500mm     -31.300mm      57.500mm       0.000mm       0.000mm  T        180.00 LED_White
+LED96      CHIPLED_1206        -75.300mm      58.000mm     -75.300mm      58.000mm       0.000mm       0.000mm  T          0.00 LED_White
+LED124     CHIPLED_1206        -94.200mm       5.800mm     -94.200mm       5.800mm       0.000mm       0.000mm  T         90.00 ORANGE
+LED125     CHIPLED_1206        -85.100mm       5.700mm     -85.100mm       5.700mm       0.000mm       0.000mm  T         90.00 BLUE
+LED127     CHIPLED_1206        -31.300mm      13.100mm     -31.300mm      13.100mm       0.000mm       0.000mm  T        180.00 LED_White
+LED128     CHIPLED_1206        -75.300mm      13.600mm     -75.300mm      13.600mm       0.000mm       0.000mm  T          0.00 LED_White
+LED156     CHIPLED_1206        -93.900mm      95.700mm     -93.900mm      95.700mm       0.000mm       0.000mm  T         90.00 ORANGE
+LED157     CHIPLED_1206        -84.800mm      95.600mm     -84.800mm      95.600mm       0.000mm       0.000mm  T         90.00 BLUE
+LED159     CHIPLED_1206        -31.000mm     103.000mm     -31.000mm     103.000mm       0.000mm       0.000mm  T        180.00 LED_White
+LED160     CHIPLED_1206        -75.000mm     103.500mm     -75.000mm     103.500mm       0.000mm       0.000mm  T          0.00 LED_White
+R1         0805                 12.100mm      40.000mm      12.100mm      40.000mm      13.000mm      40.000mm  T        180.00 0 ohm
+R2         0805                 94.800mm      29.300mm      94.800mm      29.300mm      93.900mm      29.300mm  T          0.00 0 ohm
+R3         0805                 20.600mm      35.200mm      20.600mm      35.200mm      21.500mm      35.200mm  T        180.00 20k ohm
+R4         0805                 79.600mm      20.000mm      79.600mm      20.000mm      78.700mm      20.000mm  T          0.00 20k ohm
+R5         0805                 84.200mm      31.400mm      84.200mm      31.400mm      85.100mm      31.400mm  T        180.00 500k Ohm
+R6         0805                 77.800mm      18.400mm      77.800mm      18.400mm      76.900mm      18.400mm  T          0.00 500k Ohm
+R7         0805                 84.870mm      51.520mm      84.870mm      51.520mm      83.970mm      51.520mm  T          0.00 1k ohm
+R8         0805                 93.640mm      52.150mm      93.640mm      52.150mm      93.640mm      51.250mm  T         90.00 680 ohm
+R9         0805                 11.930mm      53.510mm      11.930mm      53.510mm      11.930mm      54.410mm  T        270.00 10k Ohm
+R10        0805                 11.770mm      49.460mm      11.770mm      49.460mm      10.870mm      49.460mm  T          0.00 10k Ohm
+R11        0805                 89.290mm      80.650mm      89.290mm      80.650mm      89.290mm      81.550mm  T        270.00 10k Ohm
+R12        0805                 84.830mm      53.580mm      84.830mm      53.580mm      83.930mm      53.580mm  T          0.00 680 ohm
+R13        0805                 82.300mm      59.300mm      82.300mm      59.300mm      83.200mm      59.300mm  T        180.00 10k Ohm
+R14        0805                  7.100mm      48.400mm       7.100mm      48.400mm       8.000mm      48.400mm  T        180.00 68 Ohms
+R15        0805                 16.300mm      48.400mm      16.300mm      48.400mm      17.200mm      48.400mm  T        180.00 220 ohm
+R16        0805                 95.200mm      75.800mm      95.200mm      75.800mm      94.300mm      75.800mm  T          0.00 1k ohm
+R17        0805                 12.400mm      84.200mm      12.400mm      84.200mm      13.300mm      84.200mm  T        180.00 0 ohm
+R18        0805                 95.100mm      73.500mm      95.100mm      73.500mm      94.200mm      73.500mm  T          0.00 0 ohm
+R19        0805                 79.900mm      64.200mm      79.900mm      64.200mm      79.000mm      64.200mm  T          0.00 20k ohm
+R20        0805                 20.900mm      79.400mm      20.900mm      79.400mm      21.800mm      79.400mm  T        180.00 20k ohm
+R21        0805                 84.500mm      75.600mm      84.500mm      75.600mm      85.400mm      75.600mm  T        180.00 500k Ohm
+R22        0805                 78.100mm      62.600mm      78.100mm      62.600mm      77.200mm      62.600mm  T          0.00 500k Ohm
+R23        0805                -16.530mm      50.920mm     -16.530mm      50.920mm     -17.430mm      50.920mm  T          0.00 1k ohm
+R24        0805                 -7.760mm      51.550mm      -7.760mm      51.550mm      -7.760mm      50.650mm  T         90.00 680 ohm
+R25        0805                -89.470mm      52.910mm     -89.470mm      52.910mm     -89.470mm      53.810mm  T        270.00 10k Ohm
+R26        0805                -89.630mm      48.860mm     -89.630mm      48.860mm     -90.530mm      48.860mm  T          0.00 10k Ohm
+R27        0805                -12.110mm      80.050mm     -12.110mm      80.050mm     -12.110mm      80.950mm  T        270.00 10k Ohm
+R28        0805                -16.570mm      52.980mm     -16.570mm      52.980mm     -17.470mm      52.980mm  T          0.00 680 ohm
+R29        0805                -19.100mm      58.700mm     -19.100mm      58.700mm     -18.200mm      58.700mm  T        180.00 10k Ohm
+R30        0805                 94.900mm      31.600mm      94.900mm      31.600mm      94.000mm      31.600mm  T          0.00 1k ohm
+R31        0805                -94.300mm      47.800mm     -94.300mm      47.800mm     -93.400mm      47.800mm  T        180.00 68 Ohms
+R32        0805                 84.570mm       7.320mm      84.570mm       7.320mm      83.670mm       7.320mm  T          0.00 1k ohm
+R33        0805                 93.340mm       7.950mm      93.340mm       7.950mm      93.340mm       7.050mm  T         90.00 680 ohm
+R34        0805                -85.100mm      47.800mm     -85.100mm      47.800mm     -84.200mm      47.800mm  T        180.00 220 ohm
+R35        0805                 -6.200mm      75.200mm      -6.200mm      75.200mm      -7.100mm      75.200mm  T          0.00 1k ohm
+R36        0805                 11.630mm       9.310mm      11.630mm       9.310mm      11.630mm      10.210mm  T        270.00 10k Ohm
+R37        0805                 11.470mm       5.260mm      11.470mm       5.260mm      10.570mm       5.260mm  T          0.00 10k Ohm
+R38        0805                 88.990mm      36.450mm      88.990mm      36.450mm      88.990mm      37.350mm  T        270.00 10k Ohm
+R39        0805                 84.530mm       9.380mm      84.530mm       9.380mm      83.630mm       9.380mm  T          0.00 680 ohm
+R40        0805                -89.000mm      83.600mm     -89.000mm      83.600mm     -88.100mm      83.600mm  T        180.00 0 ohm
+R41        0805                 -6.300mm      72.900mm      -6.300mm      72.900mm      -7.200mm      72.900mm  T          0.00 0 ohm
+R42        0805                -21.500mm      63.600mm     -21.500mm      63.600mm     -22.400mm      63.600mm  T          0.00 20k ohm
+R43        0805                -80.500mm      78.800mm     -80.500mm      78.800mm     -79.600mm      78.800mm  T        180.00 20k ohm
+R44        0805                -16.900mm      75.000mm     -16.900mm      75.000mm     -16.000mm      75.000mm  T        180.00 500k Ohm
+R45        0805                -23.300mm      62.000mm     -23.300mm      62.000mm     -24.200mm      62.000mm  T          0.00 500k Ohm
+R46        0805                -16.530mm       6.520mm     -16.530mm       6.520mm     -17.430mm       6.520mm  T          0.00 1k ohm
+R47        0805                 -7.760mm       7.150mm      -7.760mm       7.150mm      -7.760mm       6.250mm  T         90.00 680 ohm
+R48        0805                -89.470mm       8.510mm     -89.470mm       8.510mm     -89.470mm       9.410mm  T        270.00 10k Ohm
+R49        0805                -89.630mm       4.460mm     -89.630mm       4.460mm     -90.530mm       4.460mm  T          0.00 10k Ohm
+R50        0805                -12.110mm      35.650mm     -12.110mm      35.650mm     -12.110mm      36.550mm  T        270.00 10k Ohm
+R51        0805                 82.000mm      15.100mm      82.000mm      15.100mm      82.900mm      15.100mm  T        180.00 10k Ohm
+R52        0805                  6.800mm       4.200mm       6.800mm       4.200mm       7.700mm       4.200mm  T        180.00 68 Ohms
+R53        0805                -16.570mm       8.580mm     -16.570mm       8.580mm     -17.470mm       8.580mm  T          0.00 680 ohm
+R54        0805                -19.100mm      14.300mm     -19.100mm      14.300mm     -18.200mm      14.300mm  T        180.00 10k Ohm
+R55        0805                 16.000mm       4.200mm      16.000mm       4.200mm      16.900mm       4.200mm  T        180.00 220 ohm
+R56        0805                -94.300mm       3.400mm     -94.300mm       3.400mm     -93.400mm       3.400mm  T        180.00 68 Ohms
+R57        0805                -85.100mm       3.400mm     -85.100mm       3.400mm     -84.200mm       3.400mm  T        180.00 220 ohm
+R58        0805                 -6.200mm      30.800mm      -6.200mm      30.800mm      -7.100mm      30.800mm  T          0.00 1k ohm
+R59        0805                -89.000mm      39.200mm     -89.000mm      39.200mm     -88.100mm      39.200mm  T        180.00 0 ohm
+R60        0805                 -6.300mm      28.500mm      -6.300mm      28.500mm      -7.200mm      28.500mm  T          0.00 0 ohm
+R61        0805                -21.500mm      19.200mm     -21.500mm      19.200mm     -22.400mm      19.200mm  T          0.00 20k ohm
+R62        0805                -80.500mm      34.400mm     -80.500mm      34.400mm     -79.600mm      34.400mm  T        180.00 20k ohm
+R63        0805                -16.900mm      30.600mm     -16.900mm      30.600mm     -16.000mm      30.600mm  T        180.00 500k Ohm
+R64        0805                -23.300mm      17.600mm     -23.300mm      17.600mm     -24.200mm      17.600mm  T          0.00 500k Ohm
+R65        0805                -16.230mm      96.420mm     -16.230mm      96.420mm     -17.130mm      96.420mm  T          0.00 1k ohm
+R66        0805                 -7.460mm      97.050mm      -7.460mm      97.050mm      -7.460mm      96.150mm  T         90.00 680 ohm
+R67        0805                -89.170mm      98.410mm     -89.170mm      98.410mm     -89.170mm      99.310mm  T        270.00 10k Ohm
+R68        0805                -89.330mm      94.360mm     -89.330mm      94.360mm     -90.230mm      94.360mm  T          0.00 10k Ohm
+R69        0805                -11.810mm     125.550mm     -11.810mm     125.550mm     -11.810mm     126.450mm  T        270.00 10k Ohm
+R70        0805                -16.270mm      98.480mm     -16.270mm      98.480mm     -17.170mm      98.480mm  T          0.00 680 ohm
+R71        0805                -18.800mm     104.200mm     -18.800mm     104.200mm     -17.900mm     104.200mm  T        180.00 10k Ohm
+R72        0805                -94.000mm      93.300mm     -94.000mm      93.300mm     -93.100mm      93.300mm  T        180.00 68 Ohms
+R73        0805                -84.800mm      93.300mm     -84.800mm      93.300mm     -83.900mm      93.300mm  T        180.00 220 ohm
+R74        0805                 -5.900mm     120.700mm      -5.900mm     120.700mm      -6.800mm     120.700mm  T          0.00 1k ohm
+R75        0805                -88.700mm     129.100mm     -88.700mm     129.100mm     -87.800mm     129.100mm  T        180.00 0 ohm
+R76        0805                 -6.000mm     118.400mm      -6.000mm     118.400mm      -6.900mm     118.400mm  T          0.00 0 ohm
+R77        0805                -21.200mm     109.100mm     -21.200mm     109.100mm     -22.100mm     109.100mm  T          0.00 20k ohm
+R78        0805                -80.200mm     124.300mm     -80.200mm     124.300mm     -79.300mm     124.300mm  T        180.00 20k ohm
+R79        0805                -16.600mm     120.500mm     -16.600mm     120.500mm     -15.700mm     120.500mm  T        180.00 500k Ohm
+R80        0805                -23.000mm     107.500mm     -23.000mm     107.500mm     -23.900mm     107.500mm  T          0.00 500k Ohm
+SW1        EVQ-Q2                7.000mm      13.100mm       7.000mm      13.100mm       0.000mm       0.000mm  T        270.00 SPST
+SW2        EVQ-Q2               16.100mm      13.000mm      16.100mm      13.000mm       0.000mm       0.000mm  T         90.00 SPST
+SW3        EVQ-Q2               80.700mm      35.300mm      80.700mm      35.300mm       0.000mm       0.000mm  T          0.00 SPST
+SW4        EVQ-Q2               89.300mm      13.100mm      89.300mm      13.100mm       0.000mm       0.000mm  T          0.00 SPST
+SW5        EVQ-Q2                7.300mm      57.300mm       7.300mm      57.300mm       0.000mm       0.000mm  T        270.00 SPST
+SW6        EVQ-Q2               16.400mm      57.200mm      16.400mm      57.200mm       0.000mm       0.000mm  T         90.00 SPST
+SW7        EVQ-Q2               81.000mm      79.500mm      81.000mm      79.500mm       0.000mm       0.000mm  T          0.00 SPST
+SW8        EVQ-Q2               89.600mm      57.300mm      89.600mm      57.300mm       0.000mm       0.000mm  T          0.00 SPST
+SW9        EVQ-Q2              -94.100mm      56.700mm     -94.100mm      56.700mm       0.000mm       0.000mm  T        270.00 SPST
+SW10       EVQ-Q2              -85.000mm      56.600mm     -85.000mm      56.600mm       0.000mm       0.000mm  T         90.00 SPST
+SW11       EVQ-Q2              -20.400mm      78.900mm     -20.400mm      78.900mm       0.000mm       0.000mm  T          0.00 SPST
+SW12       EVQ-Q2              -11.800mm      56.700mm     -11.800mm      56.700mm       0.000mm       0.000mm  T          0.00 SPST
+SW13       EVQ-Q2              -94.100mm      12.300mm     -94.100mm      12.300mm       0.000mm       0.000mm  T        270.00 SPST
+SW14       EVQ-Q2              -85.000mm      12.200mm     -85.000mm      12.200mm       0.000mm       0.000mm  T         90.00 SPST
+SW15       EVQ-Q2              -20.400mm      34.500mm     -20.400mm      34.500mm       0.000mm       0.000mm  T          0.00 SPST
+SW16       EVQ-Q2              -11.800mm      12.300mm     -11.800mm      12.300mm       0.000mm       0.000mm  T          0.00 SPST
+SW17       EVQ-Q2              -93.800mm     102.200mm     -93.800mm     102.200mm       0.000mm       0.000mm  T        270.00 SPST
+SW18       EVQ-Q2              -84.700mm     102.100mm     -84.700mm     102.100mm       0.000mm       0.000mm  T         90.00 SPST
+SW19       EVQ-Q2              -20.100mm     124.400mm     -20.100mm     124.400mm       0.000mm       0.000mm  T          0.00 SPST
+SW20       EVQ-Q2              -11.500mm     102.200mm     -11.500mm     102.200mm       0.000mm       0.000mm  T          0.00 SPST
+T1         SOT23                94.500mm      34.500mm      94.500mm      34.500mm      95.600mm      33.550mm  T         90.00 BC847
+T2         SOT23                94.800mm      78.700mm      94.800mm      78.700mm      95.900mm      77.750mm  T         90.00 BC847
+T3         SOT23                -6.600mm      78.100mm      -6.600mm      78.100mm      -5.500mm      77.150mm  T         90.00 BC847
+T4         SOT23                -6.600mm      33.700mm      -6.600mm      33.700mm      -5.500mm      32.750mm  T         90.00 BC847
+T5         SOT23                -6.300mm     123.600mm      -6.300mm     123.600mm      -5.200mm     122.650mm  T         90.00 BC847
+U$1        FIDUCIAL_1MM          2.500mm       2.400mm       2.500mm       2.400mm       2.500mm       2.400mm  T          0.00 FIDUCIAL
+U$2        LED-TRICOLOR-SMD     89.250mm       7.200mm      89.250mm       7.200mm       0.000mm       0.000mm  T          0.00 LED-TRICOLOR
+U$3        TSSOP24              20.100mm      27.300mm      20.100mm      27.300mm      16.525mm      24.382mm  T          0.00 LED1642GWTTR
+U$4        TSSOP24              75.300mm      26.500mm      75.300mm      26.500mm      78.875mm      29.418mm  T        180.00 LED1642GWTTR
+U$5        FIDUCIAL_1MM         96.300mm      39.300mm      96.300mm      39.300mm      96.300mm      39.300mm  T          0.00 FIDUCIAL
+U$6        LED-TRICOLOR-SMD     89.550mm      51.400mm      89.550mm      51.400mm       0.000mm       0.000mm  T          0.00 LED-TRICOLOR
+U$7        TSSOP24              20.400mm      71.500mm      20.400mm      71.500mm      16.825mm      68.582mm  T          0.00 LED1642GWTTR
+U$8        TSSOP24              75.600mm      70.700mm      75.600mm      70.700mm      79.175mm      73.618mm  T        180.00 LED1642GWTTR
+U$9        FIDUCIAL_1MM          2.800mm      46.600mm       2.800mm      46.600mm       2.800mm      46.600mm  T          0.00 FIDUCIAL
+U$10       FIDUCIAL_1MM         96.600mm      83.500mm      96.600mm      83.500mm      96.600mm      83.500mm  T          0.00 FIDUCIAL
+U$11       LED-TRICOLOR-SMD    -11.850mm      50.800mm     -11.850mm      50.800mm       0.000mm       0.000mm  T          0.00 LED-TRICOLOR
+U$12       TSSOP24             -81.000mm      70.900mm     -81.000mm      70.900mm     -84.575mm      67.982mm  T          0.00 LED1642GWTTR
+U$13       TSSOP24             -25.800mm      70.100mm     -25.800mm      70.100mm     -22.225mm      73.018mm  T        180.00 LED1642GWTTR
+U$14       FIDUCIAL_1MM        -98.600mm      46.000mm     -98.600mm      46.000mm     -98.600mm      46.000mm  T          0.00 FIDUCIAL
+U$15       FIDUCIAL_1MM         -4.800mm      82.900mm      -4.800mm      82.900mm      -4.800mm      82.900mm  T          0.00 FIDUCIAL
+U$16       LED-TRICOLOR-SMD    -11.850mm       6.400mm     -11.850mm       6.400mm       0.000mm       0.000mm  T          0.00 LED-TRICOLOR
+U$17       TSSOP24             -81.000mm      26.500mm     -81.000mm      26.500mm     -84.575mm      23.582mm  T          0.00 LED1642GWTTR
+U$18       TSSOP24             -25.800mm      25.700mm     -25.800mm      25.700mm     -22.225mm      28.618mm  T        180.00 LED1642GWTTR
+U$19       FIDUCIAL_1MM        -98.600mm       1.600mm     -98.600mm       1.600mm     -98.600mm       1.600mm  T          0.00 FIDUCIAL
+U$20       FIDUCIAL_1MM         -4.800mm      38.500mm      -4.800mm      38.500mm      -4.800mm      38.500mm  T          0.00 FIDUCIAL
+U$21       LED-TRICOLOR-SMD    -11.550mm      96.300mm     -11.550mm      96.300mm       0.000mm       0.000mm  T          0.00 LED-TRICOLOR
+U$22       TSSOP24             -80.700mm     116.400mm     -80.700mm     116.400mm     -84.275mm     113.482mm  T          0.00 LED1642GWTTR
+U$23       TSSOP24             -25.500mm     115.600mm     -25.500mm     115.600mm     -21.925mm     118.518mm  T        180.00 LED1642GWTTR
+U$24       FIDUCIAL_1MM        -98.300mm      91.500mm     -98.300mm      91.500mm     -98.300mm      91.500mm  T          0.00 FIDUCIAL
+U$25       FIDUCIAL_1MM         -4.500mm     128.400mm      -4.500mm     128.400mm      -4.500mm     128.400mm  T          0.00 FIDUCIAL

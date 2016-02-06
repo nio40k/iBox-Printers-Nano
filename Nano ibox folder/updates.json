@@ -1,0 +1,12 @@
+{
+  "Serial_Number": "000116",
+  "CRC32": "default",
+  "Hardware_Version_Major": 1,
+  "Hardware_Version_Minor": 2,
+  "Version_NodeJS_Major": 1,
+  "Version_NodeJS_Minor": 16,					
+  "Version_Python_Major": 1,
+  "Version_Python_Minor": 16,
+  "Creation_Date": "07/28/2015",
+  "Description": "iBox Printers - iBox Nano - JSON Software Updater<br><br><b>Ver 1.4<\/b><br>-Added on-unit restore, cloud archiving of calibration data<br><b>Ver 1.5<\/b><br>-Fixed Create Model _svg Dir Issue<br>-Optimizing SVG to PNG Parameters (ongoing)<br><b>Ver 1.6<\/b><br>-Fixed update corruption issue<br><b>Ver 1.7<\/b><br>-Fixed software update issues<br><b>Ver 1.8<\/b><br>-Create Restore-Point Button added to Advanced Settings<br><b>Ver 1.9<\/b><br>-Updated Manufacturing and Test tools, fixed browse bug for corrupt or missing Model.json files.<br><b>Ver 1.10<\/b><br>*Warning: If your Nano is below software version 1.7 you may need to update twice in a row: Updated Manufacturing and Test [Contrast, New MnT .140, Hard Corners]<br><b>Ver 1.11<\/b><br>-Updated Firmware to WebGUI communication and recovery<br><b>Ver 1.12<\/b><br>-Reduced Log Sizes, Updated WPS Comments, Updated updater<br><b>Ver 1.13<\/b><br>-Fixed Create Model Err with names ending in s,g or v<br><b>Ver 1.14<\/b><br>-Fixed PWM float, added better error handling<br><b>Ver 1.15<\/b><br>-Browse List Reset Button, FileSystem Check Option at Shutdown, MnT Contrast Enhanced<br><b>Ver 1.16<\/b><br>-Fixed minor UI bugs, New MnT Protocol Fixes, Fixed MgntKeys"
+}

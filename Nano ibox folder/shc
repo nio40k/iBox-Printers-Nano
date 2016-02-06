@@ -1,0 +1,7 @@
+archive_logs.sh
+convert_and_move_py_to_pyc_to_root.sh
+depreciated_copy_all_GUI_images_to_apache2_dir.sh
+logManager.sh
+script_set_hostname.sh
+wifi_settings_from_usb.sh
+wps.sh

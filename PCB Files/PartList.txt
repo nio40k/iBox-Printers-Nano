@@ -1,0 +1,53 @@
+Partlist
+
+Exported from RLCD_SCH_28LED_v1p13p2.brd at 3/17/2015 7:54:40 PM
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part           Value           Package          Library                             Position (mm)         Orientation
+
+	C1             100nF           C0805            resistor                            (15.1 29.2)           R270
+C2             100uF 50V       E3,5-8           adafruit                            (5.9 37.2)            R0
+	C3             100nF           C0805            resistor                            (84.1 27.3)           R90
+C6             100uF 50V       E3,5-8           adafruit                            (75.5 13.2)           R270
+FID1           FIDUCIAL1X2     FIDUCIAL-1X2     SparkFun-Aesthetics                 (96.5 2.3)            R0
+FID2           FIDUCIAL1X2     FIDUCIAL-1X2     SparkFun-Aesthetics                 (1.7 40.2)            R0
+IC1            ULN2003AD       SO16             uln-udn                             (8.2 27.4)            R270
+IC2            SI1145          QFN-10           silabs                              (79.1 7.1)            R90
+JP1            RPi 2x20 header 2X20             adafruit                            (47.6 7.2)            R180
+(30 32.5)             R0
+	LED29          ORANGE          CHIPLED_1206     adafruit                            (6.9 6.6)             R90
+	LED30          BLUE            CHIPLED_1206     adafruit                            (16 6.5)              R90
+	LED31          LED_White       CHIPLED_1206     adafruit                            (69.8 13.9)           R180
+	LED32          LED_White       CHIPLED_1206     adafruit                            (25.8 14.4)           R0
+	R1             0 ohm           0805             SparkFun-Passives                   (12.1 40)             R180
+	R2             0 ohm           0805             SparkFun-Passives                   (94.8 29.3)           R0
+	R3             20k ohm         0805             SparkFun-Passives                   (20.6 35.2)           R180
+	R4             20k ohm         0805             SparkFun-Passives                   (79.6 20)             R0
+	R5             500k Ohm        0805             SparkFun-Passives                   (84.2 31.4)           R180
+	R6             500k Ohm        0805             SparkFun-Passives                   (77.8 18.4)           R0	
+	R30            1k ohm          0805             SparkFun-Passives                   (94.9 31.6)           R0
+	R32            1k ohm          0805             SparkFun-Passives                   (84.57 7.32)          R0
+	R33            680 ohm         0805             SparkFun-Passives                   (93.34 7.95)          R90
+	R36            10k Ohm         0805             SparkFun-Passives                   (11.63 9.31)          R270
+	R37            10k Ohm         0805             SparkFun-Passives                   (11.47 5.26)          R0
+	R38            10k Ohm         0805             SparkFun-Passives                   (88.99 36.45)         R270
+	R39            680 ohm         0805             SparkFun-Passives                   (84.53 9.38)          R0
+	R51            10k Ohm         0805             SparkFun-Passives                   (82 15.1)             R180
+	R52            68 Ohms         0805             SparkFun-Passives                   (6.8 4.2)             R180
+	R55            220 ohm         0805             SparkFun-Passives                   (16 4.2)              R180
+SG1            BUZZERPTH       BUZZER-12MM      SparkFun-Electromechanical          (90.8 22.9)           R0
+SV1            640456-5        FE05-1           con-lsta                            (18.03 37.37)         R0
+SV3_LCD_HEADER 22-05-2051      MDF7-5S-2.54DSA  Trents_Hirose_5pin_2.54mm_Connector (32.5 35.8)           R0
+SW1            SPST            EVQ-Q2           adafruit                            (7 13.1)              R270
+SW2            SPST            EVQ-Q2           adafruit                            (16.1 13)             R90
+SW3            SPST            EVQ-Q2           adafruit                            (80.7 35.3)           R0
+SW4            SPST            EVQ-Q2           adafruit                            (89.3 13.1)           R0
+	T1             BC847           SOT23            transistor                          (94.5 34.5)           R90
+U$1            FIDUCIAL        FIDUCIAL_1MM     adafruit                            (2.5 2.4)             R0
+	U$2            LED-TRICOLOR    LED-TRICOLOR-SMD SparkFun-LED                        (89.25 7.2)           R0
+U$3            LED1642GWTTR    TSSOP24          iBox_Nano_Custom_Components         (20.1 27.3)           R0
+U$4            LED1642GWTTR    TSSOP24          iBox_Nano_Custom_Components         (75.3 26.5)           R180
+U$5            FIDUCIAL        FIDUCIAL_1MM     adafruit                            (96.3 39.3)           R0

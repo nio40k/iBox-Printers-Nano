@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+/*old
+.remoteText{font-size:14pt; color:#F30;}
+.localText{font-size:14pt; color:#0C0;}
+*/
+/*new below*/
+.remoteText{font-size:12pt; color: #03C; text-align:right;}
+.localText{font-size:12pt; color: #080; text-align:right;}
+
+/*
+.remoteText2{font-size:12pt; color: #03C;}
+.localText2{font-size:12pt; color: #080;}
+*/
+
+.wrapperTable{ border:#505050; border-style: outset; border-radius: 1px; width: 100%; -moz-border-radius: 12px; -webkit-border-radius: 12px;
+border-radius: 12px; box-shadow:rgba(0,0,0,0.5) 0px 0px 24px;}
+
+
+.browseTable{text-align:left; border:none;}
+.browseTable td {padding: 5px; text-align:left; border:none;}
+
+.metaDataTableLocal{padding: 5px; border:none; width: 600px;}
+.metaDataTableLocal td {border: none}
+
+.metaDataTableGCS{padding: 5px; border:none; width: 600px;}
+.metaDataTableGCS td {border: none}
+
+
+
+/*
+.deleteButton { 
+    background-image: url(images/Trash.png);
+    background-position:  0px 2px;
+    background-repeat: no-repeat;
+	background-size:contain;
+	background-color:transparent;
+    width: 53px;
+    height: 53px;
+    border: 0px;
+
+}
+
+.deleteButton:hover{ 
+      background-position:  0px -2px;
+}
+
+
+.deleteButton:active{
+      background-position:  0px -2px;
+}
+*/

@@ -1,0 +1,22 @@
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+network={
+	ssid="trestinflorida"
+	psk="CAFECAFE01"
+	proto=RSN
+	key_mgmt=WPA-PSK
+	pairwise=TKIP
+	group=TKIP WEP104 WEP40
+	auth_alg=OPEN
+}
+
+network={
+	ssid="BHNDDW3611E107"
+	psk="df8c9539"
+	proto=WPA
+	key_mgmt=WPA-PSK
+	pairwise=CCMP
+	auth_alg=OPEN
+	disabled=1
+}
