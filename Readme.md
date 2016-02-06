@@ -6,7 +6,7 @@ The folder labled "Nano ibox folder" is the ibox directory of the printer. This 
 
 In the folder labled "PCB Files" there are the Eagle PCB layout files for the printer's PCB. There are also pick and place files in there which we used for the surface mount componentes. Also for those of you that used Altium, there is a folder which has the board which was converted from Eagle. 
 
-And finally, I have made a direct image dump from my personal development printer in the "Nano Image File". This should be ok to flash driectly to your printer and might fix any isses that is software related. This came from an 8 GB Micro SD card so you will need to use at least an 8 GB card or higher. 
+And finally, I have made a direct image dump from my personal development printer. Here is the link to download: https://drive.google.com/file/d/0B6_silB01EPpQ0lyNnV3Z2VMd0U/view?usp=sharing . This should be ok to flash driectly to your printer and might fix any isses that is software related. This came from an 8 GB Micro SD card so you will need to use at least an 8 GB card or higher. 
 
 I hope that this helps the community! 
 
